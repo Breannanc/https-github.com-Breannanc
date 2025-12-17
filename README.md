@@ -124,6 +124,8 @@ Detailed update history can be found in [CHANGELOG.md](CHANGELOG.md).
 You are welcome to download and use this code according to the terms of the licence.
 
 [KX](kx.com) recommends you do not link your application to this repository,
+
+EDITED HERE
 which would expose your application to various risks:
 
 - This is not a high-availability hosting service
