@@ -48,5 +48,6 @@ if[(count Q:F"splits_us_all_bbo_*[0-9]")within 1 25;-1"missing quote splits";exi
 \ts {foo2[`trade;th2;tf2;tg2]x}each F"eqy_us_all_trade_[0-9]*";
 \ts {foo2[`nbbo; nh2;nf2;ng2]x}each F"eqy_us_all_nbbo_[0-9]*";
 
+
 \
 http://www.nyxdata.com/Data-Products/Daily-TAQ
